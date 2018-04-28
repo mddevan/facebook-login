@@ -88,7 +88,7 @@ header {
     margin-top: 22px;
     margin-left: 20px;
     background-color: #4267b2;
-    border: 2px solid #4b4f56;
+    border: 1px solid #4b4f56;
     color: #FFFFFF;
     font-weight: 800;
 }
@@ -161,7 +161,7 @@ section {
     height: 40px;
     margin-left: 10px;
     border-radius: 5px;
-    border: 2px solid #BDC7D8;
+    border: 1px solid #BDC7D8;
     margin-top: 23px;
 }
 
@@ -170,14 +170,14 @@ section {
     height: 40px;
     margin-left: 10px;
     border-radius: 5px;
-    border: 2px solid #BDC7D8;
+    border: 1px solid #BDC7D8;
     margin-top: 23px;
 
 }
 
 .moe {
     border-radius: 5px;
-    border: 2px solid #BDC7D8;
+    border: 1px solid #BDC7D8;
     height: 40px;
     margin-left: 10px;
     width: 96%;
@@ -186,7 +186,7 @@ section {
 
 .password {
     border-radius: 5px;
-    border: 2px solid #BDC7D8;
+    border: 1px solid #BDC7D8;
     height: 40px;
     margin-left: 10px;
     width: 96%;
@@ -232,7 +232,7 @@ section {
     margin-left: 10px;
     width: 27%;
     height: 32px;
-    border: 2px solid #BDC7D8;
+    border: 1px solid #BDC7D8;
     padding-left: 3px;
 }
 
@@ -266,7 +266,7 @@ input[type=radio] {
     margin-left: 10px;
     padding: 5px 63px;
     background-color: #63994E;
-    border: 2px solid #4b4f56;
+    border: 1px solid #4b4f56;
     border-radius: 5px;
     color: white;
     font-size: 21px;
